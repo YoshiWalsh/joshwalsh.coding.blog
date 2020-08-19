@@ -1,7 +1,6 @@
 [Home](/)
-[Sample Blog Post](/sample-blog-post)
+[Making an animated Hilbert Curve using WebGL](/hilbert-shader)
+[Playing .lrc files in the browser](/lyrics-1)
+[One-day build: Themed animated lyrics webapp](/lyrics-2)
 
 <br><br>
-
-To add links to your other posts,
-simply modify contents of `posts/_toc.md`

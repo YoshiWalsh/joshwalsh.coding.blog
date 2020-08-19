@@ -1,53 +1,37 @@
 > :DarkLight
 > > :InLight
 > >
-> > ![banner](/img/cb-banner.svg)
+> > ![Joshua Walsh](/img/logo.svg)
 >
 > > :InDark
 > >
-> > ![banner](/img/cb-banner-dark.svg)
+> > ![Joshua Walsh](/img/logo.svg)
 
 > :Title
 >
-> Sample Blog
+> joshwalsh.coding.blog
 
-This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
-it to showcase your latest / most-important blog posts (or whatever suites your case).
-You can modify its content by editting `posts/index.md`.
+I am a software developer living in Sydney, Australia. I enjoy programming for the sake of it, so a lot of my projects
+are based on whims instead of any practical need. This is reflected in my blog posts, which often talk about projects
+that may seem pointless, ill-advised or Byzantine. But I hope you'll find them as entertaining
+and educational as I did.
+
+This blog will contain a curated subset of posts from my [main blog](https://blog.joshwalsh.me/). I will be sharing
+posts that I think are particularly interesting here.
 
 ---
 
 # Latest Posts
 
-So here are the latest posts:
+> :ArticleCard src=/lyrics-2, style=box
 
-> :ArticleCard src=/sample-blog-post, style=box
+> :ArticleCard src=/hilbert-shader, style=box
 
-> :ArticleCard src=/sample-blog-post, style=box
-
-> :ArticleCard src=/sample-blog-post
-
-> :ArticleCard src=/sample-blog-post
+> :ArticleCard src=/lyrics-1
 
 ---
 
-# Docs
-
-`coding.blog` is based on [**CODEDOC**](https://codedoc.cc). Checkout the official documentations
-of **CODEDOC** to learn more about how it works and how you can utilize it to create your blog.
-
-> :Buttons
-> > :Button label=CODEDOC Docs, url=https://codedoc.cc
-
-Additionally, this boilerplate uses [`coding.blog` Plugin for **CODEDOC**](https://github.com/CONNECT-platform/coding-blog-plugin),
-which offers components and functionality specifically designed around writing blog-posts
-and publishing them to `coding.blog`. Checkout the documentation of that plugin to learn more
-about the tools at your displosal for blogging.
-
-> :Buttons
-> > :Button label=Plugin Docs, url=https://connect-platform.github.io/coding-blog-plugin/
-
-<br><br>
+<br>
 
 > :Author src=github
 
