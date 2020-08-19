@@ -93,11 +93,6 @@
       "hash": "YgUrfhgMTRkMOyJXSzrnNg=="
     },
     {
-      "name": "ArticleCard",
-      "filename": "/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
-      "hash": "lMCIPlpDzV+/bnEVyMlGPw=="
-    },
-    {
       "name": "Author",
       "filename": "/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
       "hash": "uU5Mf6hX80XLVyK7wxWrHg=="
@@ -106,6 +101,11 @@
       "name": "ToCPrevNext",
       "filename": "/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
       "hash": "Np8WqrudlIn6YtII/bgUUQ=="
+    },
+    {
+      "name": "ArticleCard",
+      "filename": "/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "lMCIPlpDzV+/bnEVyMlGPw=="
     }
   ],
   "renderer": {

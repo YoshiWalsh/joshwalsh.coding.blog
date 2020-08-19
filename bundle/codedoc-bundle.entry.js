@@ -17,17 +17,17 @@ import { copyLineLinks } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh
 import { ToCToggle } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
-import { ArticleCard } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 import { Author } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js';
 import { ToCPrevNext } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
+import { ArticleCard } from '/home/runner/work/joshwalsh.coding.blog/joshwalsh.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 
 const components = {
   'Y37hGkTcTeOjIepkBSGIQg==': ToCToggle,
   '++96ku066si1YE+LPC+GGg==': DarkModeSwitch,
   'YgUrfhgMTRkMOyJXSzrnNg==': ConfigTransport,
-  'lMCIPlpDzV+/bnEVyMlGPw==': ArticleCard,
   'uU5Mf6hX80XLVyK7wxWrHg==': Author,
-  'Np8WqrudlIn6YtII/bgUUQ==': ToCPrevNext
+  'Np8WqrudlIn6YtII/bgUUQ==': ToCPrevNext,
+  'lMCIPlpDzV+/bnEVyMlGPw==': ArticleCard
 };
 
 const renderer = getRenderer();
